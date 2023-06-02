@@ -1,0 +1,15 @@
+.container {
+  background-color: #1F1E1B;
+  border: 2px solid #a35709;
+  border-radius: 5px;
+  padding: 7px 0 7px 30px;
+  width: 100%;
+}
+
+.brandName {
+  font-size: 20px;
+}
+
+.appName {
+  font-size: 14px;
+}
